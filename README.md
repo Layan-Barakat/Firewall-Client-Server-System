@@ -1,4 +1,4 @@
-# Firewall Client-Server System 🔥
+# Firewall Client-Server System
 
 This project implements a **client–server architecture in C** that manages a set of firewall rules and handles network requests interactively or remotely. The system validates IP and port ranges, maintains command history, and supports rule addition, connection checks, deletion, and listing.
 
@@ -14,7 +14,7 @@ This project implements a **client–server architecture in C** that manages a s
 
 ---
 
-## 🧩 Files
+## Files
 | File | Description |
 |-------|-------------|
 | `annotated-server.c.pdf` | Server program with interactive and network modes |
@@ -22,7 +22,7 @@ This project implements a **client–server architecture in C** that manages a s
 
 ---
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 ```bash
 # Compile both files
 gcc annotated-server.c -o server -lpthread
