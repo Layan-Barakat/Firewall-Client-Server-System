@@ -4,7 +4,7 @@ This project implements a **client–server architecture in C** that manages a s
 
 ---
 
-## ⚙️ Features
+## Features
 - Add, delete, and list firewall rules (`A`, `D`, `L` commands)
 - Check incoming connections (`C` command)
 - View command history (`R` command)
